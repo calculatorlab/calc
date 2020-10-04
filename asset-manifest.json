@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calc/static/css/main.5f361e03.chunk.css",
+    "main.js": "/calc/static/js/main.919b4a7d.chunk.js",
+    "main.js.map": "/calc/static/js/main.919b4a7d.chunk.js.map",
+    "runtime-main.js": "/calc/static/js/runtime-main.b87305a7.js",
+    "runtime-main.js.map": "/calc/static/js/runtime-main.b87305a7.js.map",
+    "static/js/2.9f1eaea1.chunk.js": "/calc/static/js/2.9f1eaea1.chunk.js",
+    "static/js/2.9f1eaea1.chunk.js.map": "/calc/static/js/2.9f1eaea1.chunk.js.map",
+    "index.html": "/calc/index.html",
+    "precache-manifest.6340935b891d25eaf2ef21cf2dc9c76e.js": "/calc/precache-manifest.6340935b891d25eaf2ef21cf2dc9c76e.js",
+    "service-worker.js": "/calc/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/calc/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9f1eaea1.chunk.js.LICENSE.txt": "/calc/static/js/2.9f1eaea1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/calc/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b87305a7.js",
+    "static/js/2.9f1eaea1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.919b4a7d.chunk.js"
+  ]
+}
