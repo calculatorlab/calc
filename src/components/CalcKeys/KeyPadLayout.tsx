@@ -30,7 +30,7 @@ const KeyPadSectionLayout: React.FC<{ layout: KeyPadSection }> = ({
 
 const KeyPadLayout: React.FC<{ layout: KeyPad }> = ({ layout }) => {
   return (
-    <div className="flex flex-col">
+    <div className="bg-gray-200">
       {layout.sections.map((s) => (
         <KeyPadSectionLayout key={uuid()} layout={s} />
       ))}

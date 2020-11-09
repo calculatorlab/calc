@@ -5,7 +5,7 @@ import SimpleKeyPadLayout from "../CalcKeys/SimpleKeyPad";
 
 const Calc = () => {
   return (
-    <div className="shadow-lg w-64">
+    <div className="h-auto overflow-hidden rounded-lg shadow-xs">
       <Display />
       <Keys layout={SimpleKeyPadLayout()} />
     </div>
